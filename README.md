@@ -112,6 +112,85 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 ![image](https://user-images.githubusercontent.com/105696051/184936736-4c79f43b-5073-4a09-81f5-65a920a8eeda.png)
 
 ![image](https://user-images.githubusercontent.com/105696051/184937044-1ed74963-0ae9-453f-97c8-c52f7757b8b8.png)
+
+a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
+* 0 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945004-75ccfe54-dda2-449e-8e69-03ed59580d6b.png)
+
+* 10 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945042-0147543b-3220-4e2a-a8be-3c386494e839.png)
+
+* 50 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945075-72773b52-3eba-4684-85de-8fcc0f959fbf.png)
+
+* 100 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945100-35ae47aa-4ab9-4397-9f98-c0e316deca29.png)
+
+* 500 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945122-6b29887c-feaa-48ea-a97b-8aa43df3c0e5.png)
+
+* 1000 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945147-ba03e318-89f5-4dd7-9ebb-fd32c9fcce9e.png)
+
+b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+* 0 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945271-65cc38aa-f6c2-4b89-a4e5-63d12bd3d7b6.png)
+
+* 10 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945295-da5d3279-9ddd-413b-ba08-89673bb136f7.png)
+
+* 50 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945334-c1c738e2-d73f-4f98-8288-9a8280386d6f.png)
+
+* 100 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945360-06b396c6-fba1-48b7-8621-88b972446ee3.png)
+
+* 500 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945378-696eaeb5-f01d-4959-aa71-5c584f5f4495.png)
+
+* 1000 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945394-2904aaae-f0a8-404e-b97e-9b21a3d763ea.png)
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+* 0 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945504-a0f1873e-d626-413b-967a-50db4fdb2703.png)
+
+* 10 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945526-cd0e1d80-d1b7-4fd1-97fe-40515fd74db8.png)
+
+* 50 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945542-aa7115dc-46f8-4497-ae55-06f46157eaad.png)
+
+* 100 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945573-57b0c650-f373-4ad2-94bb-6bddd4934445.png)
+
+* 500 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945611-89b22f47-ed4e-487f-8a24-07c75ffe131a.png)
+
+* 1000 Hz
+
+![image](https://user-images.githubusercontent.com/105696051/184945628-9884e0b0-c005-4e93-96b4-cdf0207231ba.png)
+
 ### 3.3 Análisis de resultados
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
